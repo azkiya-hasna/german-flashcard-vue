@@ -4,7 +4,7 @@
     <section class="hero-section">
       <div class="hero-left">
         <span class="level-sub">// LEVEL {{ currentLevel }}</span>
-        <h1 class="hero-title">{{ heroInfo.title }} <span class="badge-de">DE</span></h1>
+        <h1 class="hero-title">{{ heroInfo.title }} <span class="badge-de">🇩🇪</span></h1>
         <p class="hero-desc">{{ levelDescription }}</p>
       </div>
       <div class="hero-right">
