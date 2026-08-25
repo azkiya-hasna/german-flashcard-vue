@@ -4,7 +4,14 @@
 
     <div class="auth-card">
       <div class="brand-badge-row">
-        <h2>Willkommen! <span class="badge-de">DE</span></h2>
+        <h1 class="...">
+  Willkommen!
+  <img 
+    src="https://flagcdn.com/w40/de.png" 
+    alt="German Flag" 
+    class="inline-block w-6 h-auto align-middle rounded-sm ml-1"
+  />
+</h1>
       </div>
       <p class="auth-sub-desc">Enter your username or Sync Key to track your learning progress.</p>
       
