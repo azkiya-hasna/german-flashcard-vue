@@ -4,7 +4,7 @@
 
     <div class="auth-card">
       <div class="brand-badge-row">
-        <h2>Willkommen! <span class="badge-de">🇩🇪</span></h2>
+        <h2>Willkommen!🇩🇪 </span></h2>
       </div>
       <p class="auth-sub-desc">Enter your username or Sync Key to track your learning progress.</p>
       
