@@ -17,7 +17,7 @@
           autocomplete="off"
           @keyup.enter="submitLogin"
         />
-        <button class="auth-btn" @click="submitLogin">Masuk / Mulai Belajar</button>
+        <button class="auth-btn" @click="submitLogin">Start Learning</button>
       </div>
       
       <div class="auth-status" :style="{ color: statusColor }">{{ statusMsg }}</div>
