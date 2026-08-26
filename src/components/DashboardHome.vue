@@ -5,12 +5,8 @@
       <div class="hero-left">
         <span class="level-sub">// LEVEL {{ currentLevel }}</span>
         <h1 class="hero-title">
-  {{ heroInfo.title }}
-  <img 
-    src="https://flagcdn.com/w40/de.png" 
-    alt="German Flag" 
-    style="height: 0.85em; width: auto; vertical-align: -0.05em; display: inline-block; margin-left: 8px; border-radius: 4px;"
-  />
+  {{ heroInfo.title }} 
+  <span class="badge-de" style="font-size: 0.9em; vertical-align: middle;">🇩🇪</span>
 </h1>
         <p class="hero-desc">{{ levelDescription }}</p>
       </div>
