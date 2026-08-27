@@ -3,10 +3,10 @@
     <!-- Hero Level Header -->
     <section class="hero-section">
       <div class="hero-left">
-        <span class="level-sub">// LEVEL {{ currentLevel }}</span>
+        <span class="level-sub"> LEVEL {{ currentLevel }}</span>
         <h1 class="hero-title">
   {{ heroInfo.title }} 
-  <span class="badge-de" style="font-size: 0.9em; vertical-align: middle;">🇩🇪</span>
+  <span class="badge-de" style="font-size: 1.5em; vertical-align: middle;">🇩🇪</span>
 </h1>
         <p class="hero-desc">{{ levelDescription }}</p>
       </div>
