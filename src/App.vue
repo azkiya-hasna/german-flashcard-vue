@@ -63,10 +63,10 @@ import { NETZWERK_DATA_MAPPING_B1 } from './data/vocab-data-B1.js'
 import { NETZWERK_DATA_MAPPING_B2 } from './data/vocab-data-B2.js'
 
 const LEVEL_DESCRIPTIONS = {
-  'A1': 'Grundwortschatz A1 — Alltagsgespräche, Familie, Berufe und Grundgrammatik.',
-  'A2': 'Erweiterter Wortschatz A2 — Reise, Arbeit, Gesundheit, Orientierung und Alltag.',
-  'B1': 'Mittelstufe B1 — Meinungen ausdrücken, Berufswelt, Kultur und Umwelt.',
-  'B2': 'Fortgeschrittene B2 — Fachbegriffe, Diskussionen und Nuancen.'
+  'A1': 'Grundwortschatz A1; Alltagsgespräche, Familie, Berufe und Grundgrammatik.',
+  'A2': 'Erweiterter Wortschatz A2; Reise, Arbeit, Gesundheit, Orientierung und Alltag.',
+  'B1': 'Mittelstufe B1; Meinungen ausdrücken, Berufswelt, Kultur und Umwelt.',
+  'B2': 'Fortgeschrittene B2; Fachbegriffe, Diskussionen, und Nuancen.'
 }
 
 const rawDatasets = {
