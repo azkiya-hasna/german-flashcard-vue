@@ -94,7 +94,6 @@ function submitLogin() {
   padding: 40px 32px;
   width: 100%;
   max-width: 440px;
-  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.8), 0 0 35px rgba(0, 210, 255, 0.08);
   text-align: center;
   box-sizing: border-box;
 }
