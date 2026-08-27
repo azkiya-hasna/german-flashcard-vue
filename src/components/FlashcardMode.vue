@@ -232,7 +232,6 @@ function handleRate(val) {
 .panel-back {
   transform: rotateY(180deg);
   border-color: rgba(146, 84, 222, 0.4);
-  box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.6), 0 0 30px rgba(146, 84, 222, 0.1);
 }
 
 /* Anchored Badges & Buttons */
