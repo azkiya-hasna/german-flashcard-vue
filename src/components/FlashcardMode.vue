@@ -187,7 +187,6 @@ function handleRate(val) {
 .neon-progress-fill {
   height: 100%;
   background: linear-gradient(90deg, #00D2FF 0%, #9254DE 100%);
-  box-shadow: 0 0 12px rgba(0, 210, 255, 0.7);
   transition: width 0.35s ease;
 }
 
@@ -224,7 +223,6 @@ function handleRate(val) {
   border-radius: 24px;
   background: radial-gradient(circle at 50% 20%, #171F2C 0%, #0B1017 100%);
   border: 1px solid rgba(255, 255, 255, 0.12);
-  box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.6), 0 0 30px rgba(0, 210, 255, 0.05);
   padding: 24px;
   box-sizing: border-box;
 }
@@ -323,7 +321,6 @@ function handleRate(val) {
 
 .audio-listen-cyber:hover {
   background: rgba(56, 189, 248, 0.15);
-  box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
   transform: translateY(-2px);
 }
 
