@@ -156,7 +156,6 @@ function submitLogin() {
 .auth-input:focus {
   border-color: #38BDF8;
   background: rgba(255, 255, 255, 0.08);
-  box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);
 }
 
 /* Tombol Masuk Futuristik */
@@ -172,13 +171,11 @@ function submitLogin() {
   font-size: 1rem;
   cursor: pointer;
   letter-spacing: 0.02em;
-  box-shadow: 0 0 20px rgba(79, 70, 229, 0.4);
   transition: all 0.25s ease;
 }
 
 .auth-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 0 30px rgba(6, 182, 212, 0.6);
 }
 
 .auth-btn:active {
