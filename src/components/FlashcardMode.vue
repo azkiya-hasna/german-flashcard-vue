@@ -368,18 +368,10 @@ function handleRate(val) {
   border: 1px solid rgba(239, 68, 68, 0.35);
 }
 
-.srs-hard:hover {
-  box-shadow: 0 0 16px rgba(239, 68, 68, 0.4);
-}
-
 .srs-good {
   background: rgba(59, 130, 246, 0.15);
   color: #60A5FA;
   border: 1px solid rgba(59, 130, 246, 0.35);
-}
-
-.srs-good:hover {
-  box-shadow: 0 0 16px rgba(59, 130, 246, 0.4);
 }
 
 .srs-easy {
@@ -388,7 +380,5 @@ function handleRate(val) {
   border: 1px solid rgba(16, 185, 129, 0.35);
 }
 
-.srs-easy:hover {
-  box-shadow: 0 0 16px rgba(16, 185, 129, 0.4);
-}
+
 </style>
