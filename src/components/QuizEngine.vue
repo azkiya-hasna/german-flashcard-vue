@@ -207,7 +207,6 @@ function closeQuiz() {
   padding: 40px;
   border-radius: 20px;
   border: 1px solid var(--border-color, #242D3D);
-  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.2);
 }
 
 .quiz-type-badge {
@@ -330,7 +329,6 @@ function closeQuiz() {
   max-width: 500px;
   margin: 40px auto;
   border: 1px solid var(--border-color, #242D3D);
-  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.2);
 }
 
 .score-radial {
