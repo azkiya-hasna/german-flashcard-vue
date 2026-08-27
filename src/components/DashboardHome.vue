@@ -6,7 +6,7 @@
         <span class="level-sub"> LEVEL {{ currentLevel }}</span>
         <h1 class="hero-title">
   {{ heroInfo.title }} 
-  <span class="badge-de" style="font-size: 1.5em; vertical-align: middle;">🇩🇪</span>
+  <span class="badge-de" style="font-size: 1.2em; vertical-align: middle;">🇩🇪</span>
 </h1>
         <p class="hero-desc">{{ levelDescription }}</p>
       </div>
@@ -197,7 +197,7 @@ function getNeonBarColor(deck) {
 
 .level-sub {
   font-family: 'Space Grotesk', monospace;
-  font-size: 0.8rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #38BDF8;
   letter-spacing: 0.08em;
